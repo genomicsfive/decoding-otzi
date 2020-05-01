@@ -33,12 +33,14 @@ Do not hesitate to contact us in case you find any problems or issues.
 
 Contributors names and contact info:
 
-Edurne Mujika
-Beñat Campo
-Irati Elkarte
-Ainara Erauzkin
-Iker Arriaga
+* Edurne Mujika
+* Beñat Campo
+* Irati Elkarte
+* Ainara Erauzkin
+* Iker Arriaga
+```
 [@genomicsfive](https://twitter.com/genomicsfive)
+```
 
 ## Version History
 
