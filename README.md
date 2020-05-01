@@ -38,9 +38,9 @@ Contributors names and contact info:
 * Irati Elkarte
 * Ainara Erauzkin
 * Iker Arriaga
-```
+
 [@genomicsfive](https://twitter.com/genomicsfive)
-```
+
 
 ## Version History
 
