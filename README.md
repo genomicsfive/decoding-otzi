@@ -22,7 +22,7 @@ Helburu horiek aurrera eramateko gure graduetan zehar garatu dugun ezagutza prak
 * On-line programs
 * Follow the webapage's "Methodology" page
 ```
-[WebPage](https://genomicsfive.wixsite.com/otzi-sekuentzia)
+[WebPage](https://genomicsfive.wixsite.com/uncoding-otzi)
 ```
 
 ## Help
