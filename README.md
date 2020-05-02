@@ -1,6 +1,6 @@
-# Uncoding Ötzi
+# Decoding Ötzi
 
-Uncoding Ötzi proiektua sortu eta aurrera eraman ahal izateko GenomicsFive® taldea sortu genuen. Ötziren analisi genetikoetan oinarrituz indibiduo honen bizimoduaren inguruan informazioa lortzea, ikuspuntu genetikotik nor zen ezagutzea eta gaur egungo populazioarekin genetikoki alderatzea interes handiko lana dela iruditu zitzaigun.
+Decoding Ötzi proiektua sortu eta aurrera eraman ahal izateko GenomicsFive® taldea sortu genuen. Ötziren analisi genetikoetan oinarrituz indibiduo honen bizimoduaren inguruan informazioa lortzea, ikuspuntu genetikotik nor zen ezagutzea eta gaur egungo populazioarekin genetikoki alderatzea interes handiko lana dela iruditu zitzaigun.
 
 ## Description
 
@@ -21,9 +21,8 @@ Helburu horiek aurrera eramateko gure graduetan zehar garatu dugun ezagutza prak
 
 * On-line programs
 * Follow the webapage's "Methodology" page
-```
-[WebPage](https://genomicsfive.wixsite.com/uncoding-otzi)
-```
+
+[WebPage](https://genomicsfive.wixsite.com/decoding-otzi)
 
 ## Help
 
